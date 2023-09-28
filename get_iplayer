@@ -5172,7 +5172,7 @@ sub get_metadata {
 					}
 				}
 				my $recipe = $prog->thumb_url_recipe();
-				$thumbnail = "https://ichef.bbci.co.uk/images/ic/${recipe}/${image_pid}.jpg";
+				$thumbnail = "https://ichef.bbc.co.uk/images/ic/${recipe}/${image_pid}.jpg";
 				# /programmes page
 				$web = "https://www.bbc.co.uk/programmes/$pid";
 				# player page
